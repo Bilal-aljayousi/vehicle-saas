@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/VehicleSaaS.API/VehicleSaaS.API.csproj" />
+    <Project Path="backend/VehicleSaaS.Application/VehicleSaaS.Application.csproj" />
+    <Project Path="backend/VehicleSaaS.Domain/VehicleSaaS.Domain.csproj" />
+    <Project Path="backend/VehicleSaaS.Infrastructure/VehicleSaaS.Infrastructure.csproj" />
+  </Folder>
+</Solution>
